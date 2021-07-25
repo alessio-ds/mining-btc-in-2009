@@ -1,5 +1,5 @@
 # Mining BTC in 2009
-A Python program to simulate how much it take for your CPU to mine a Bitcoin block in 2009.
+A Python program to simulate how much it would take for your CPU to mine a Bitcoin block in 2009.
 
 ![](https://i.imgur.com/3RSA2cU.gif)
 *Did you notice it only took 1 try to get the first 4 zeroes right? It's all about luck!*
