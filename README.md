@@ -1,5 +1,5 @@
 # Mining BTC in 2009
-A Python program to mimick how much it take for your CPU to mine a Bitcoin block in 2009.
+A Python program to simulate how much it take for your CPU to mine a Bitcoin block in 2009.
 
 ![](https://i.imgur.com/3RSA2cU.gif)
 ## Description
@@ -9,7 +9,7 @@ A Python program to mimick how much it take for your CPU to mine a Bitcoin block
 
 **However, this doesn't mean it's easy**. 
 
-This program is made to mimick how much it would take to mine a single block in 2009.
+This program is made to mimic how much it would take to mine a single block in 2009.
 
 ## How does it work?
 To randomly generate SHA256 hashes, I decided to use this method:
