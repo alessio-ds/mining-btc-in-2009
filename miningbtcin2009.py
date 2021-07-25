@@ -3,7 +3,7 @@ import hashlib, time, random
 ok='0000000000000000000000000000000000000000000000000000000000000000'
 hexg='9999999999999999999999999999999999999999999999999999999999999999'
 print('To mine BTC you will need to find a SHA256 hash starting with 19 zeroes to get 6.25BTC ($215k, July 2021)\nIn 2009, only 8 zeroes were needed to mine a block and get 50BTC ($1.7m, July 2021)\n')
-print("However, this doesn't mean that it's easy. This program is made to mimick how much it would take to mine a single block in 2009.")
+print("However, this doesn't mean that it's easy. This program is made to mimic how much it would take to mine a single block in 2009.")
 input('\nPress ENTER to start.\n')
 end=1
 totaltime=0
