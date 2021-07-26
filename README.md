@@ -2,7 +2,6 @@
 A Python program to simulate how much it would take for your CPU to mine a Bitcoin block in 2009.
 
 ![](https://i.imgur.com/3RSA2cU.gif)
-*Did you notice it only took 1 try to get the first 4 zeroes right? It's all about luck!*
 ## Description
 [As you might know, to mine BTC you will need to find a SHA256 hash **starting with 19 zeroes** to get 6.25BTC ($215k, July 2021)](https://www.blockchain.com/btc/block/0000000000000000000a21dd7eb71ed2f2c4a2818214357eb4948cb0ed317b19 "As you might know, to mine BTC you will need to find a SHA256 hash starting with 19 zeroes to get 6.25BTC ($215k, July 2021)")
 
